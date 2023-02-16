@@ -26,4 +26,4 @@ six==1.15.0
 tifffile==2020.9.3
 torch==1.6.0+cpu
 torchvision==0.7.0+cpu
-Werkzeug==1.0.1
+Werkzeug==2.2.3
